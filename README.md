@@ -13,8 +13,9 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 - Programming for cybersecurity tasks
 
 ### Skills
-
-- Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` |
+| Projects | Skills/Knowledge Gained |
+| :--- |:---:|
+| [1](https://github.com/bot0024/Bot-CyberSecurity-Portfolio/tree/main/Linux%20%26%20SQL) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` |
 
 
 ### Tools 

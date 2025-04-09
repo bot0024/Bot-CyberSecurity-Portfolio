@@ -4,13 +4,14 @@
 
 # Portfolio
 
-> Please visit this [link](https://coursera.org/share/9b59d0463d00a9f3b68b78a09a1a9ceb) for further information.
+This portfolio showcases my progress and achievements in cybersecurity, highlighting projects and tasks completed during my journey to earn the Google Cybersecurity Professional Certificate. It demonstrates practical insights and hands-on experience with concepts essential to cybersecurity and system management.
+> To provide enhanced clarity and detail, some of the documents are formatted in .DOCX. This enables:
+* Advanced styling and formatting
+* Vibrant presentations
+* Visual aids like screenshots for a comprehensive understanding
 
-> Some of my documents are in .DOCX format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
 
-- Programming for cybersecurity tasks
 
 ### Skills
 | Projects | Skills/Knowledge Gained |
@@ -18,13 +19,13 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 | [1](https://github.com/bot0024/Bot-CyberSecurity-Portfolio/tree/main/Linux%20%26%20SQL) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` |
 
 
-### Tools 
-Several tools that I used: 
-* Google Workspace (Drive, Docs, Sheets, Slides)
-* Linux OS
-* SQL
+### Tools Used
+Throughout these projects, I effectively utilized the following tools:
+* Google Workspace: Drive, Docs, Sheets, Slides
+* Linux OS: Command-line scripting and operations
+* SQL: Database querying and management
 
-**Stay tuned for updates!**
 
-This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
-Thank you for your time. For more information, please connect with me on [Linkedin](www.linkedin.com/in/dip-nalawade).
+## Future Updates
+This portfolio is a living document, evolving as I continue earning certifications and completing additional projects. Regular updates will reflect my progress, enabling others to learn about my expanding expertise and evolving skills.
+Thank you for taking the time to explore my work! If you’re interested in connecting or learning more, please visit my LinkedIn profile.[Linkedin](www.linkedin.com/in/dip-nalawade).

@@ -29,7 +29,8 @@ Throughout these projects, I effectively utilized the following tools:
 ## Future Updates
 This portfolio is a living document, evolving as I continue earning certifications and completing additional projects. Regular updates will reflect my progress, enabling others to learn about my expanding expertise and evolving skills.
 Thank you for taking the time to explore my work! If you’re interested in connecting or learning more, please visit my LinkedIn profile.
-> <a href="www.linkedin.com/in/dip-nalawade/" target="_blank">
+> <a href="https://www.linkedin.com/in/dip-nalawade/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+
 
